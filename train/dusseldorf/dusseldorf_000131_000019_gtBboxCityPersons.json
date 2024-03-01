@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                1505, 
+                387, 
+                46, 
+                114
+            ], 
+            "bboxVis": [
+                1511, 
+                388, 
+                40, 
+                113
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1741, 
+                335, 
+                21, 
+                22
+            ], 
+            "bboxVis": [
+                1741, 
+                335, 
+                21, 
+                22
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                567, 
+                409, 
+                6, 
+                28
+            ], 
+            "bboxVis": [
+                567, 
+                409, 
+                6, 
+                28
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1057, 
+                434, 
+                15, 
+                11
+            ], 
+            "bboxVis": [
+                1057, 
+                434, 
+                15, 
+                11
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1662, 
+                397, 
+                16, 
+                59
+            ], 
+            "bboxVis": [
+                1662, 
+                397, 
+                16, 
+                59
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1697, 
+                409, 
+                20, 
+                19
+            ], 
+            "bboxVis": [
+                1697, 
+                409, 
+                20, 
+                19
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

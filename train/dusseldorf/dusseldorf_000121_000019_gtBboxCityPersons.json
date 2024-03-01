@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                684, 
+                449, 
+                29, 
+                71
+            ], 
+            "bboxVis": [
+                684, 
+                449, 
+                29, 
+                71
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                35, 
+                465, 
+                37, 
+                91
+            ], 
+            "bboxVis": [
+                43, 
+                465, 
+                23, 
+                27
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                56, 
+                457, 
+                42, 
+                100
+            ], 
+            "bboxVis": [
+                56, 
+                457, 
+                41, 
+                37
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                725, 
+                437, 
+                32, 
+                64
+            ], 
+            "bboxVis": [
+                725, 
+                437, 
+                32, 
+                64
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1019, 
+                451, 
+                9, 
+                8
+            ], 
+            "bboxVis": [
+                1019, 
+                451, 
+                9, 
+                8
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                934, 
+                450, 
+                8, 
+                9
+            ], 
+            "bboxVis": [
+                934, 
+                450, 
+                8, 
+                9
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

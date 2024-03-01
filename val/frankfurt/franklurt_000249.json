@@ -1,0 +1,54 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                808, 
+                382, 
+                20, 
+                48
+            ], 
+            "bboxVis": [
+                808, 
+                383, 
+                20, 
+                47
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25001, 
+            "bbox": [
+                1197, 
+                289, 
+                102, 
+                250
+            ], 
+            "bboxVis": [
+                1198, 
+                289, 
+                95, 
+                250
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1507, 
+                286, 
+                12, 
+                15
+            ], 
+            "bboxVis": [
+                1507, 
+                286, 
+                12, 
+                15
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

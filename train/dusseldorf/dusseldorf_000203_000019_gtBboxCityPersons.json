@@ -1,0 +1,38 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 0, 
+            "bbox": [
+                918, 
+                264, 
+                8, 
+                18
+            ], 
+            "bboxVis": [
+                918, 
+                264, 
+                8, 
+                18
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                799, 
+                391, 
+                55, 
+                48
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }
+    ]
+}

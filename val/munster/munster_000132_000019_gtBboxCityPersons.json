@@ -1,0 +1,38 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 0, 
+            "bbox": [
+                415, 
+                421, 
+                51, 
+                47
+            ], 
+            "bboxVis": [
+                415, 
+                421, 
+                51, 
+                47
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                850, 
+                449, 
+                16, 
+                15
+            ], 
+            "bboxVis": [
+                850, 
+                449, 
+                16, 
+                15
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

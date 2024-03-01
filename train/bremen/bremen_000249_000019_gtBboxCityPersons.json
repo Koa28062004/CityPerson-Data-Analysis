@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                975, 
+                423, 
+                11, 
+                26
+            ], 
+            "bboxVis": [
+                977, 
+                423, 
+                9, 
+                26
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                629, 
+                400, 
+                29, 
+                70
+            ], 
+            "bboxVis": [
+                634, 
+                402, 
+                21, 
+                18
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                1081, 
+                420, 
+                13, 
+                32
+            ], 
+            "bboxVis": [
+                1082, 
+                420, 
+                12, 
+                32
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                1104, 
+                423, 
+                11, 
+                27
+            ], 
+            "bboxVis": [
+                1104, 
+                424, 
+                11, 
+                25
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                995, 
+                425, 
+                7, 
+                18
+            ], 
+            "bboxVis": [
+                996, 
+                427, 
+                6, 
+                16
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1011, 
+                423, 
+                7, 
+                5
+            ], 
+            "bboxVis": [
+                1011, 
+                423, 
+                7, 
+                5
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

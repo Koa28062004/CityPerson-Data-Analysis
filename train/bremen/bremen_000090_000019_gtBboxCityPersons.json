@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                313, 
+                438, 
+                34, 
+                85
+            ], 
+            "bboxVis": [
+                315, 
+                438, 
+                26, 
+                64
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                476, 
+                361, 
+                59, 
+                144
+            ], 
+            "bboxVis": [
+                488, 
+                361, 
+                26, 
+                47
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                548, 
+                361, 
+                51, 
+                125
+            ], 
+            "bboxVis": [
+                548, 
+                361, 
+                51, 
+                112
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25001, 
+            "bbox": [
+                501, 
+                363, 
+                55, 
+                134
+            ], 
+            "bboxVis": [
+                501, 
+                363, 
+                55, 
+                134
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25002, 
+            "bbox": [
+                463, 
+                396, 
+                34, 
+                84
+            ], 
+            "bboxVis": [
+                463, 
+                396, 
+                34, 
+                84
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                426, 
+                366, 
+                62, 
+                150
+            ], 
+            "bboxVis": [
+                433, 
+                368, 
+                43, 
+                148
+            ], 
+            "label": "pedestrian"
+        }
+    ]
+}

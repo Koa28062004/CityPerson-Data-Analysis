@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                570, 
+                416, 
+                42, 
+                104
+            ], 
+            "bboxVis": [
+                570, 
+                416, 
+                42, 
+                101
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1523, 
+                324, 
+                10, 
+                23
+            ], 
+            "bboxVis": [
+                1523, 
+                324, 
+                10, 
+                23
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                849, 
+                421, 
+                9, 
+                6
+            ], 
+            "bboxVis": [
+                849, 
+                421, 
+                9, 
+                6
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                755, 
+                416, 
+                14, 
+                17
+            ], 
+            "bboxVis": [
+                755, 
+                416, 
+                14, 
+                17
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                694, 
+                426, 
+                9, 
+                22
+            ], 
+            "bboxVis": [
+                694, 
+                426, 
+                9, 
+                22
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                88, 
+                403, 
+                33, 
+                36
+            ], 
+            "bboxVis": [
+                88, 
+                403, 
+                33, 
+                36
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

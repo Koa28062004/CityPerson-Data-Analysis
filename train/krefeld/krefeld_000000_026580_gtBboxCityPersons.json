@@ -1,0 +1,150 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                580, 
+                404, 
+                40, 
+                92
+            ], 
+            "bboxVis": [
+                580, 
+                404, 
+                40, 
+                92
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                447, 
+                355, 
+                73, 
+                179
+            ], 
+            "bboxVis": [
+                447, 
+                355, 
+                73, 
+                179
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1069, 
+                371, 
+                41, 
+                101
+            ], 
+            "bboxVis": [
+                1069, 
+                372, 
+                41, 
+                100
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                1040, 
+                386, 
+                34, 
+                85
+            ], 
+            "bboxVis": [
+                1040, 
+                387, 
+                34, 
+                84
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24004, 
+            "bbox": [
+                1272, 
+                373, 
+                39, 
+                95
+            ], 
+            "bboxVis": [
+                1283, 
+                374, 
+                17, 
+                25
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24005, 
+            "bbox": [
+                1256, 
+                393, 
+                25, 
+                61
+            ], 
+            "bboxVis": [
+                1257, 
+                394, 
+                23, 
+                23
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24006, 
+            "bbox": [
+                1578, 
+                327, 
+                64, 
+                157
+            ], 
+            "bboxVis": [
+                1597, 
+                328, 
+                27, 
+                30
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                897, 
+                392, 
+                39, 
+                86
+            ], 
+            "bboxVis": [
+                897, 
+                392, 
+                39, 
+                86
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                733, 
+                395, 
+                102, 
+                37
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1911, 
+                326, 
+                50, 
+                46
+            ], 
+            "bboxVis": [
+                1911, 
+                326, 
+                50, 
+                46
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1430, 
+                267, 
+                105, 
+                255
+            ], 
+            "bboxVis": [
+                1430, 
+                268, 
+                95, 
+                254
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1605, 
+                257, 
+                106, 
+                259
+            ], 
+            "bboxVis": [
+                1617, 
+                258, 
+                79, 
+                258
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                1078, 
+                340, 
+                11, 
+                27
+            ], 
+            "bboxVis": [
+                1078, 
+                340, 
+                11, 
+                18
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1347, 
+                211, 
+                39, 
+                97
+            ], 
+            "bboxVis": [
+                1347, 
+                211, 
+                39, 
+                97
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                520, 
+                366, 
+                15, 
+                12
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }
+    ]
+}

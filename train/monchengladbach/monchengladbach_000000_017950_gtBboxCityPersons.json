@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                426, 
+                405, 
+                20, 
+                50
+            ], 
+            "bboxVis": [
+                426, 
+                405, 
+                20, 
+                50
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1196, 
+                379, 
+                44, 
+                107
+            ], 
+            "bboxVis": [
+                1196, 
+                380, 
+                44, 
+                106
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1204, 
+                385, 
+                40, 
+                99
+            ], 
+            "bboxVis": [
+                1204, 
+                385, 
+                40, 
+                99
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                510, 
+                406, 
+                8, 
+                16
+            ], 
+            "bboxVis": [
+                510, 
+                406, 
+                8, 
+                16
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                763, 
+                415, 
+                13, 
+                14
+            ], 
+            "bboxVis": [
+                763, 
+                415, 
+                13, 
+                14
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1104, 
+                404, 
+                11, 
+                10
+            ], 
+            "bboxVis": [
+                1104, 
+                404, 
+                11, 
+                10
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

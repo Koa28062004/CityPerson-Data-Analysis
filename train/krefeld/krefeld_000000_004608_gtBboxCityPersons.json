@@ -1,0 +1,118 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1357, 
+                364, 
+                29, 
+                72
+            ], 
+            "bboxVis": [
+                1360, 
+                365, 
+                23, 
+                71
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                906, 
+                373, 
+                12, 
+                36
+            ], 
+            "bboxVis": [
+                906, 
+                373, 
+                12, 
+                36
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                886, 
+                374, 
+                4, 
+                32
+            ], 
+            "bboxVis": [
+                886, 
+                374, 
+                4, 
+                32
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                897, 
+                375, 
+                4, 
+                33
+            ], 
+            "bboxVis": [
+                897, 
+                375, 
+                4, 
+                33
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                767, 
+                372, 
+                25, 
+                28
+            ], 
+            "bboxVis": [
+                767, 
+                372, 
+                25, 
+                28
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                458, 
+                326, 
+                24, 
+                37
+            ], 
+            "bboxVis": [
+                458, 
+                326, 
+                24, 
+                37
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                1441, 
+                351, 
+                72, 
+                119
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }
+    ]
+}

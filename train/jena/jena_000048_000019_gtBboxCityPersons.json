@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1972, 
+                241, 
+                71, 
+                469
+            ], 
+            "bboxVis": [
+                1972, 
+                241, 
+                71, 
+                469
+            ], 
+            "label": "person (other)"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1330, 
+                424, 
+                22, 
+                54
+            ], 
+            "bboxVis": [
+                1331, 
+                424, 
+                21, 
+                54
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1356, 
+                420, 
+                23, 
+                56
+            ], 
+            "bboxVis": [
+                1356, 
+                420, 
+                23, 
+                56
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                191, 
+                407, 
+                20, 
+                36
+            ], 
+            "bboxVis": [
+                191, 
+                407, 
+                20, 
+                36
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                988, 
+                404, 
+                18, 
+                28
+            ], 
+            "bboxVis": [
+                988, 
+                404, 
+                18, 
+                28
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                412, 
+                411, 
+                40, 
+                60
+            ], 
+            "bboxVis": [
+                412, 
+                411, 
+                40, 
+                60
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

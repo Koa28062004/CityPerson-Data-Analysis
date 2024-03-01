@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                967, 
+                414, 
+                14, 
+                34
+            ], 
+            "bboxVis": [
+                969, 
+                415, 
+                12, 
+                33
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1787, 
+                284, 
+                14, 
+                42
+            ], 
+            "bboxVis": [
+                1787, 
+                284, 
+                14, 
+                42
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1777, 
+                214, 
+                10, 
+                48
+            ], 
+            "bboxVis": [
+                1777, 
+                214, 
+                10, 
+                48
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                2007, 
+                227, 
+                19, 
+                75
+            ], 
+            "bboxVis": [
+                2007, 
+                227, 
+                19, 
+                75
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                943, 
+                420, 
+                8, 
+                19
+            ], 
+            "bboxVis": [
+                943, 
+                420, 
+                8, 
+                19
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                981, 
+                420, 
+                7, 
+                12
+            ], 
+            "bboxVis": [
+                981, 
+                420, 
+                7, 
+                12
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

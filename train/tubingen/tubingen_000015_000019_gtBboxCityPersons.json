@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                575, 
+                420, 
+                38, 
+                91
+            ], 
+            "bboxVis": [
+                579, 
+                421, 
+                33, 
+                90
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                534, 
+                419, 
+                38, 
+                93
+            ], 
+            "bboxVis": [
+                541, 
+                421, 
+                29, 
+                91
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1171, 
+                418, 
+                26, 
+                60
+            ], 
+            "bboxVis": [
+                1171, 
+                418, 
+                26, 
+                60
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                843, 
+                441, 
+                10, 
+                10
+            ], 
+            "bboxVis": [
+                843, 
+                441, 
+                10, 
+                10
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                820, 
+                441, 
+                8, 
+                10
+            ], 
+            "bboxVis": [
+                820, 
+                441, 
+                8, 
+                10
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                876, 
+                443, 
+                5, 
+                6
+            ], 
+            "bboxVis": [
+                876, 
+                443, 
+                5, 
+                6
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

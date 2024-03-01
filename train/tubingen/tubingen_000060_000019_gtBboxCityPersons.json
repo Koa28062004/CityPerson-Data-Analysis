@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1068, 
+                377, 
+                31, 
+                77
+            ], 
+            "bboxVis": [
+                1068, 
+                379, 
+                26, 
+                75
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                883, 
+                367, 
+                60, 
+                145
+            ], 
+            "bboxVis": [
+                887, 
+                367, 
+                53, 
+                145
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1372, 
+                378, 
+                29, 
+                70
+            ], 
+            "bboxVis": [
+                1383, 
+                378, 
+                16, 
+                38
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                1197, 
+                388, 
+                16, 
+                40
+            ], 
+            "bboxVis": [
+                1197, 
+                389, 
+                16, 
+                39
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1610, 
+                255, 
+                18, 
+                23
+            ], 
+            "bboxVis": [
+                1610, 
+                255, 
+                18, 
+                23
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1566, 
+                233, 
+                22, 
+                47
+            ], 
+            "bboxVis": [
+                1566, 
+                233, 
+                22, 
+                47
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

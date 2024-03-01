@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1808, 
+                302, 
+                147, 
+                357
+            ], 
+            "bboxVis": [
+                1821, 
+                302, 
+                123, 
+                357
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1968, 
+                269, 
+                159, 
+                387
+            ], 
+            "bboxVis": [
+                1987, 
+                274, 
+                57, 
+                382
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                984, 
+                406, 
+                41, 
+                100
+            ], 
+            "bboxVis": [
+                985, 
+                406, 
+                40, 
+                100
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1453, 
+                289, 
+                8, 
+                19
+            ], 
+            "bboxVis": [
+                1453, 
+                289, 
+                8, 
+                19
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                884, 
+                428, 
+                40, 
+                65
+            ], 
+            "bboxVis": [
+                884, 
+                428, 
+                40, 
+                65
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                706, 
+                474, 
+                22, 
+                21
+            ], 
+            "bboxVis": [
+                706, 
+                474, 
+                22, 
+                21
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

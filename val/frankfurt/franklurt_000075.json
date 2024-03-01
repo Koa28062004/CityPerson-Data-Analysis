@@ -1,0 +1,310 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                400, 
+                399, 
+                33, 
+                80
+            ], 
+            "bboxVis": [
+                405, 
+                401, 
+                26, 
+                43
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                165, 
+                416, 
+                30, 
+                92
+            ], 
+            "bboxVis": [
+                165, 
+                416, 
+                30, 
+                92
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                283, 
+                423, 
+                78, 
+                97
+            ], 
+            "bboxVis": [
+                283, 
+                423, 
+                78, 
+                97
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                1048, 
+                364, 
+                64, 
+                157
+            ], 
+            "bboxVis": [
+                1048, 
+                364, 
+                64, 
+                157
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24004, 
+            "bbox": [
+                1189, 
+                377, 
+                92, 
+                158
+            ], 
+            "bboxVis": [
+                1189, 
+                377, 
+                92, 
+                158
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24005, 
+            "bbox": [
+                1435, 
+                310, 
+                114, 
+                278
+            ], 
+            "bboxVis": [
+                1465, 
+                312, 
+                80, 
+                276
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24006, 
+            "bbox": [
+                1381, 
+                280, 
+                134, 
+                328
+            ], 
+            "bboxVis": [
+                1394, 
+                280, 
+                102, 
+                328
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24007, 
+            "bbox": [
+                2021, 
+                352, 
+                22, 
+                161
+            ], 
+            "bboxVis": [
+                2021, 
+                352, 
+                22, 
+                161
+            ], 
+            "label": "person (other)"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                713, 
+                399, 
+                27, 
+                67
+            ], 
+            "bboxVis": [
+                713, 
+                401, 
+                27, 
+                65
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25001, 
+            "bbox": [
+                665, 
+                394, 
+                38, 
+                92
+            ], 
+            "bboxVis": [
+                668, 
+                394, 
+                35, 
+                92
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                835, 
+                342, 
+                47, 
+                44
+            ], 
+            "bboxVis": [
+                835, 
+                342, 
+                47, 
+                44
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                779, 
+                390, 
+                33, 
+                32
+            ], 
+            "bboxVis": [
+                779, 
+                390, 
+                33, 
+                32
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1168, 
+                366, 
+                18, 
+                60
+            ], 
+            "bboxVis": [
+                1168, 
+                366, 
+                18, 
+                60
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                1356, 
+                402, 
+                48, 
+                53
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                1545, 
+                392, 
+                97, 
+                62
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                1686, 
+                369, 
+                94, 
+                41
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                1835, 
+                380, 
+                24, 
+                21
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                1860, 
+                388, 
+                19, 
+                13
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                1880, 
+                381, 
+                44, 
+                20
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }
+    ]
+}

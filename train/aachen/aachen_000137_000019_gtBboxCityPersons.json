@@ -1,0 +1,54 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1797, 
+                529, 
+                12, 
+                31
+            ], 
+            "bboxVis": [
+                1797, 
+                529, 
+                12, 
+                27
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                879, 
+                473, 
+                33, 
+                80
+            ], 
+            "bboxVis": [
+                879, 
+                473, 
+                33, 
+                80
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                1876, 
+                516, 
+                26, 
+                54
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }
+    ]
+}

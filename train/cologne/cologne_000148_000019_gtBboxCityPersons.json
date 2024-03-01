@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                275, 
+                368, 
+                56, 
+                137
+            ], 
+            "bboxVis": [
+                292, 
+                500, 
+                29, 
+                5
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                368, 
+                494, 
+                10, 
+                3
+            ], 
+            "bboxVis": [
+                368, 
+                494, 
+                10, 
+                3
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                534, 
+                387, 
+                38, 
+                93
+            ], 
+            "bboxVis": [
+                542, 
+                387, 
+                20, 
+                93
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                546, 
+                397, 
+                35, 
+                85
+            ], 
+            "bboxVis": [
+                552, 
+                397, 
+                29, 
+                85
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24004, 
+            "bbox": [
+                -22, 
+                335, 
+                81, 
+                197
+            ], 
+            "bboxVis": [
+                7, 
+                335, 
+                46, 
+                197
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                346, 
+                346, 
+                23, 
+                89
+            ], 
+            "bboxVis": [
+                346, 
+                346, 
+                23, 
+                89
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

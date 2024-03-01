@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                961, 
+                381, 
+                39, 
+                96
+            ], 
+            "bboxVis": [
+                964, 
+                382, 
+                36, 
+                95
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1904, 
+                384, 
+                19, 
+                47
+            ], 
+            "bboxVis": [
+                1905, 
+                384, 
+                18, 
+                42
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1782, 
+                384, 
+                21, 
+                52
+            ], 
+            "bboxVis": [
+                1785, 
+                384, 
+                12, 
+                19
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                1559, 
+                398, 
+                21, 
+                52
+            ], 
+            "bboxVis": [
+                1559, 
+                398, 
+                21, 
+                52
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25001, 
+            "bbox": [
+                1328, 
+                404, 
+                34, 
+                82
+            ], 
+            "bboxVis": [
+                1328, 
+                406, 
+                34, 
+                80
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25002, 
+            "bbox": [
+                1450, 
+                355, 
+                62, 
+                151
+            ], 
+            "bboxVis": [
+                1450, 
+                357, 
+                62, 
+                144
+            ], 
+            "label": "rider"
+        }
+    ]
+}

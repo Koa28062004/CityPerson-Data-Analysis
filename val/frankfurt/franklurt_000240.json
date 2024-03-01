@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                810, 
+                416, 
+                10, 
+                22
+            ], 
+            "bboxVis": [
+                810, 
+                416, 
+                10, 
+                22
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                821, 
+                411, 
+                11, 
+                26
+            ], 
+            "bboxVis": [
+                822, 
+                411, 
+                9, 
+                26
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1357, 
+                316, 
+                75, 
+                182
+            ], 
+            "bboxVis": [
+                1359, 
+                317, 
+                73, 
+                181
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                1313, 
+                333, 
+                72, 
+                177
+            ], 
+            "bboxVis": [
+                1313, 
+                334, 
+                72, 
+                176
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                928, 
+                408, 
+                11, 
+                25
+            ], 
+            "bboxVis": [
+                930, 
+                408, 
+                9, 
+                25
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1311, 
+                948, 
+                105, 
+                75
+            ], 
+            "bboxVis": [
+                1311, 
+                948, 
+                105, 
+                75
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

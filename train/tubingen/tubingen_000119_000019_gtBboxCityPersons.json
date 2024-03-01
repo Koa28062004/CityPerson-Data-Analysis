@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                810, 
+                358, 
+                20, 
+                50
+            ], 
+            "bboxVis": [
+                810, 
+                358, 
+                20, 
+                50
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                71, 
+                333, 
+                18, 
+                44
+            ], 
+            "bboxVis": [
+                71, 
+                333, 
+                18, 
+                44
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                147, 
+                338, 
+                17, 
+                41
+            ], 
+            "bboxVis": [
+                149, 
+                338, 
+                15, 
+                41
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                177, 
+                343, 
+                18, 
+                43
+            ], 
+            "bboxVis": [
+                180, 
+                343, 
+                15, 
+                43
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24004, 
+            "bbox": [
+                993, 
+                356, 
+                28, 
+                70
+            ], 
+            "bboxVis": [
+                993, 
+                357, 
+                27, 
+                69
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24005, 
+            "bbox": [
+                962, 
+                349, 
+                32, 
+                78
+            ], 
+            "bboxVis": [
+                962, 
+                349, 
+                32, 
+                78
+            ], 
+            "label": "pedestrian"
+        }
+    ]
+}

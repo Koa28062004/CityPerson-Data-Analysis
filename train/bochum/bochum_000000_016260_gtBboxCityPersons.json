@@ -1,0 +1,38 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                965, 
+                386, 
+                27, 
+                67
+            ], 
+            "bboxVis": [
+                968, 
+                386, 
+                24, 
+                44
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                881, 
+                332, 
+                7, 
+                10
+            ], 
+            "bboxVis": [
+                881, 
+                332, 
+                7, 
+                10
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

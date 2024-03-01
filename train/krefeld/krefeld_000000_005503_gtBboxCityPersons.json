@@ -1,0 +1,86 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                8, 
+                417, 
+                45, 
+                108
+            ], 
+            "bboxVis": [
+                8, 
+                418, 
+                45, 
+                107
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                686, 
+                435, 
+                15, 
+                13
+            ], 
+            "bboxVis": [
+                686, 
+                435, 
+                15, 
+                13
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                723, 
+                429, 
+                29, 
+                19
+            ], 
+            "bboxVis": [
+                723, 
+                429, 
+                29, 
+                19
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                209, 
+                336, 
+                11, 
+                15
+            ], 
+            "bboxVis": [
+                209, 
+                336, 
+                11, 
+                15
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1970, 
+                311, 
+                11, 
+                13
+            ], 
+            "bboxVis": [
+                1970, 
+                311, 
+                11, 
+                13
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

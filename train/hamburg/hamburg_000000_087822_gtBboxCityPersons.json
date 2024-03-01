@@ -1,0 +1,246 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1527, 
+                354, 
+                46, 
+                114
+            ], 
+            "bboxVis": [
+                1532, 
+                356, 
+                37, 
+                112
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1486, 
+                356, 
+                47, 
+                114
+            ], 
+            "bboxVis": [
+                1486, 
+                357, 
+                44, 
+                113
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1443, 
+                353, 
+                48, 
+                119
+            ], 
+            "bboxVis": [
+                1451, 
+                353, 
+                40, 
+                119
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                1619, 
+                345, 
+                39, 
+                96
+            ], 
+            "bboxVis": [
+                1631, 
+                345, 
+                24, 
+                96
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24004, 
+            "bbox": [
+                1594, 
+                344, 
+                38, 
+                93
+            ], 
+            "bboxVis": [
+                1605, 
+                346, 
+                13, 
+                21
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24005, 
+            "bbox": [
+                1595, 
+                344, 
+                50, 
+                123
+            ], 
+            "bboxVis": [
+                1595, 
+                345, 
+                50, 
+                122
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24007, 
+            "bbox": [
+                612, 
+                383, 
+                31, 
+                76
+            ], 
+            "bboxVis": [
+                621, 
+                384, 
+                15, 
+                42
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24008, 
+            "bbox": [
+                672, 
+                385, 
+                32, 
+                77
+            ], 
+            "bboxVis": [
+                674, 
+                385, 
+                24, 
+                37
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                1408, 
+                346, 
+                50, 
+                124
+            ], 
+            "bboxVis": [
+                1408, 
+                349, 
+                50, 
+                121
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25001, 
+            "bbox": [
+                1145, 
+                291, 
+                107, 
+                262
+            ], 
+            "bboxVis": [
+                1145, 
+                291, 
+                107, 
+                262
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25002, 
+            "bbox": [
+                596, 
+                387, 
+                27, 
+                66
+            ], 
+            "bboxVis": [
+                598, 
+                387, 
+                25, 
+                42
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25003, 
+            "bbox": [
+                500, 
+                381, 
+                32, 
+                79
+            ], 
+            "bboxVis": [
+                500, 
+                381, 
+                32, 
+                79
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 24006, 
+            "bbox": [
+                638, 
+                387, 
+                31, 
+                75
+            ], 
+            "bboxVis": [
+                638, 
+                387, 
+                25, 
+                37
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                227, 
+                290, 
+                50, 
+                29
+            ], 
+            "bboxVis": [
+                227, 
+                290, 
+                50, 
+                29
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1561, 
+                339, 
+                10, 
+                16
+            ], 
+            "bboxVis": [
+                1561, 
+                339, 
+                10, 
+                16
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

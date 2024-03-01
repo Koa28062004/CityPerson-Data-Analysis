@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                745, 
+                427, 
+                21, 
+                51
+            ], 
+            "bboxVis": [
+                745, 
+                428, 
+                21, 
+                50
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                679, 
+                392, 
+                6, 
+                8
+            ], 
+            "bboxVis": [
+                679, 
+                392, 
+                6, 
+                8
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1216, 
+                409, 
+                16, 
+                48
+            ], 
+            "bboxVis": [
+                1216, 
+                409, 
+                16, 
+                48
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1191, 
+                415, 
+                15, 
+                16
+            ], 
+            "bboxVis": [
+                1191, 
+                415, 
+                15, 
+                16
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1183, 
+                417, 
+                8, 
+                15
+            ], 
+            "bboxVis": [
+                1183, 
+                417, 
+                8, 
+                15
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 24, 
+            "bbox": [
+                773, 
+                430, 
+                32, 
+                50
+            ], 
+            "bboxVis": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "label": "person group"
+        }
+    ]
+}

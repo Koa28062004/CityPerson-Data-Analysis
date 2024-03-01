@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                7, 
+                288, 
+                72, 
+                175
+            ], 
+            "bboxVis": [
+                7, 
+                288, 
+                72, 
+                175
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                346, 
+                109, 
+                24, 
+                36
+            ], 
+            "bboxVis": [
+                346, 
+                109, 
+                24, 
+                36
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1045, 
+                411, 
+                5, 
+                21
+            ], 
+            "bboxVis": [
+                1045, 
+                411, 
+                5, 
+                21
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1031, 
+                412, 
+                7, 
+                23
+            ], 
+            "bboxVis": [
+                1031, 
+                412, 
+                7, 
+                23
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1005, 
+                408, 
+                6, 
+                13
+            ], 
+            "bboxVis": [
+                1005, 
+                408, 
+                6, 
+                13
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1074, 
+                410, 
+                3, 
+                10
+            ], 
+            "bboxVis": [
+                1074, 
+                410, 
+                3, 
+                10
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

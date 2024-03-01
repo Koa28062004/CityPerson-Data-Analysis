@@ -1,0 +1,38 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                594, 
+                401, 
+                40, 
+                83
+            ], 
+            "bboxVis": [
+                594, 
+                401, 
+                40, 
+                83
+            ], 
+            "label": "person (other)"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                6, 
+                363, 
+                37, 
+                142
+            ], 
+            "bboxVis": [
+                6, 
+                363, 
+                37, 
+                142
+            ], 
+            "label": "person (other)"
+        }
+    ]
+}

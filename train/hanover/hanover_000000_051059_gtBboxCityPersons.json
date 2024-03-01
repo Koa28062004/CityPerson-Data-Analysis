@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                137, 
+                395, 
+                22, 
+                53
+            ], 
+            "bboxVis": [
+                137, 
+                395, 
+                22, 
+                21
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                1861, 
+                431, 
+                59, 
+                28
+            ], 
+            "bboxVis": [
+                1861, 
+                431, 
+                59, 
+                28
+            ], 
+            "label": "person (other)"
+        }, 
+        {
+            "instanceId": 25001, 
+            "bbox": [
+                674, 
+                404, 
+                15, 
+                36
+            ], 
+            "bboxVis": [
+                677, 
+                404, 
+                12, 
+                36
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25002, 
+            "bbox": [
+                596, 
+                411, 
+                18, 
+                43
+            ], 
+            "bboxVis": [
+                596, 
+                411, 
+                18, 
+                43
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25003, 
+            "bbox": [
+                635, 
+                405, 
+                18, 
+                43
+            ], 
+            "bboxVis": [
+                637, 
+                405, 
+                16, 
+                43
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25004, 
+            "bbox": [
+                618, 
+                406, 
+                18, 
+                45
+            ], 
+            "bboxVis": [
+                618, 
+                406, 
+                18, 
+                45
+            ], 
+            "label": "rider"
+        }
+    ]
+}

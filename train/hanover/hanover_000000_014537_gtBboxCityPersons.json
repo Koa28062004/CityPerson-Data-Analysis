@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1085, 
+                399, 
+                12, 
+                29
+            ], 
+            "bboxVis": [
+                1085, 
+                401, 
+                12, 
+                27
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1203, 
+                389, 
+                19, 
+                47
+            ], 
+            "bboxVis": [
+                1205, 
+                390, 
+                17, 
+                37
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1223, 
+                391, 
+                20, 
+                47
+            ], 
+            "bboxVis": [
+                1223, 
+                391, 
+                20, 
+                28
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                1323, 
+                388, 
+                30, 
+                74
+            ], 
+            "bboxVis": [
+                1325, 
+                388, 
+                25, 
+                39
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                916, 
+                379, 
+                7, 
+                8
+            ], 
+            "bboxVis": [
+                916, 
+                379, 
+                7, 
+                8
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1109, 
+                377, 
+                7, 
+                8
+            ], 
+            "bboxVis": [
+                1109, 
+                377, 
+                7, 
+                8
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

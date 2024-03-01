@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1279, 
+                396, 
+                37, 
+                90
+            ], 
+            "bboxVis": [
+                1286, 
+                396, 
+                30, 
+                90
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                430, 
+                423, 
+                27, 
+                66
+            ], 
+            "bboxVis": [
+                430, 
+                425, 
+                27, 
+                64
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25001, 
+            "bbox": [
+                534, 
+                313, 
+                102, 
+                248
+            ], 
+            "bboxVis": [
+                534, 
+                313, 
+                102, 
+                248
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25002, 
+            "bbox": [
+                1762, 
+                396, 
+                21, 
+                51
+            ], 
+            "bboxVis": [
+                1762, 
+                398, 
+                21, 
+                49
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1134, 
+                197, 
+                30, 
+                38
+            ], 
+            "bboxVis": [
+                1134, 
+                197, 
+                30, 
+                38
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1968, 
+                379, 
+                24, 
+                66
+            ], 
+            "bboxVis": [
+                1968, 
+                379, 
+                24, 
+                66
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

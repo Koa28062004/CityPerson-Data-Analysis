@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                177, 
+                427, 
+                48, 
+                118
+            ], 
+            "bboxVis": [
+                179, 
+                427, 
+                42, 
+                94
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                212, 
+                439, 
+                45, 
+                110
+            ], 
+            "bboxVis": [
+                215, 
+                439, 
+                33, 
+                110
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                235, 
+                438, 
+                45, 
+                109
+            ], 
+            "bboxVis": [
+                235, 
+                438, 
+                45, 
+                109
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                281, 
+                436, 
+                46, 
+                111
+            ], 
+            "bboxVis": [
+                286, 
+                437, 
+                37, 
+                110
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24004, 
+            "bbox": [
+                315, 
+                444, 
+                44, 
+                108
+            ], 
+            "bboxVis": [
+                315, 
+                444, 
+                44, 
+                108
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                473, 
+                464, 
+                19, 
+                20
+            ], 
+            "bboxVis": [
+                473, 
+                464, 
+                19, 
+                20
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

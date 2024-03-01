@@ -1,0 +1,70 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1143, 
+                386, 
+                14, 
+                35
+            ], 
+            "bboxVis": [
+                1146, 
+                387, 
+                11, 
+                34
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1541, 
+                360, 
+                34, 
+                83
+            ], 
+            "bboxVis": [
+                1545, 
+                360, 
+                28, 
+                19
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1519, 
+                372, 
+                29, 
+                71
+            ], 
+            "bboxVis": [
+                1530, 
+                372, 
+                10, 
+                7
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                974, 
+                389, 
+                8, 
+                20
+            ], 
+            "bboxVis": [
+                976, 
+                390, 
+                6, 
+                19
+            ], 
+            "label": "pedestrian"
+        }
+    ]
+}

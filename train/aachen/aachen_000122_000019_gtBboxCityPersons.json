@@ -1,0 +1,54 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1090, 
+                408, 
+                22, 
+                52
+            ], 
+            "bboxVis": [
+                1092, 
+                408, 
+                19, 
+                52
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1192, 
+                355, 
+                31, 
+                23
+            ], 
+            "bboxVis": [
+                1192, 
+                355, 
+                31, 
+                23
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                555, 
+                404, 
+                19, 
+                23
+            ], 
+            "bboxVis": [
+                555, 
+                404, 
+                19, 
+                23
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

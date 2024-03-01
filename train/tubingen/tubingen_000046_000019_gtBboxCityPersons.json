@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                621, 
+                350, 
+                91, 
+                222
+            ], 
+            "bboxVis": [
+                621, 
+                353, 
+                91, 
+                210
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25001, 
+            "bbox": [
+                1191, 
+                415, 
+                19, 
+                47
+            ], 
+            "bboxVis": [
+                1191, 
+                415, 
+                19, 
+                47
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25002, 
+            "bbox": [
+                1204, 
+                380, 
+                56, 
+                137
+            ], 
+            "bboxVis": [
+                1213, 
+                381, 
+                18, 
+                136
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25003, 
+            "bbox": [
+                1214, 
+                372, 
+                68, 
+                166
+            ], 
+            "bboxVis": [
+                1214, 
+                373, 
+                65, 
+                165
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                822, 
+                412, 
+                8, 
+                6
+            ], 
+            "bboxVis": [
+                822, 
+                412, 
+                8, 
+                6
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1040, 
+                441, 
+                9, 
+                13
+            ], 
+            "bboxVis": [
+                1040, 
+                441, 
+                9, 
+                13
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

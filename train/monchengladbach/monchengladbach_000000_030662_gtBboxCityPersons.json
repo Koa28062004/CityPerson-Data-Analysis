@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1642, 
+                356, 
+                63, 
+                152
+            ], 
+            "bboxVis": [
+                1643, 
+                358, 
+                62, 
+                150
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                803, 
+                413, 
+                10, 
+                14
+            ], 
+            "bboxVis": [
+                803, 
+                413, 
+                10, 
+                14
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                830, 
+                413, 
+                14, 
+                15
+            ], 
+            "bboxVis": [
+                830, 
+                413, 
+                14, 
+                15
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                897, 
+                403, 
+                10, 
+                15
+            ], 
+            "bboxVis": [
+                897, 
+                403, 
+                10, 
+                15
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                870, 
+                401, 
+                4, 
+                17
+            ], 
+            "bboxVis": [
+                870, 
+                401, 
+                4, 
+                17
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                883, 
+                405, 
+                9, 
+                14
+            ], 
+            "bboxVis": [
+                883, 
+                405, 
+                9, 
+                14
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

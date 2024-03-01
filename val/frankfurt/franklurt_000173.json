@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1124, 
+                394, 
+                14, 
+                34
+            ], 
+            "bboxVis": [
+                1127, 
+                394, 
+                11, 
+                22
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1265, 
+                373, 
+                31, 
+                75
+            ], 
+            "bboxVis": [
+                1265, 
+                376, 
+                31, 
+                72
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1321, 
+                377, 
+                28, 
+                67
+            ], 
+            "bboxVis": [
+                1321, 
+                378, 
+                26, 
+                44
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                1348, 
+                369, 
+                31, 
+                74
+            ], 
+            "bboxVis": [
+                1352, 
+                370, 
+                23, 
+                50
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                490, 
+                403, 
+                20, 
+                48
+            ], 
+            "bboxVis": [
+                491, 
+                403, 
+                19, 
+                48
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 25001, 
+            "bbox": [
+                553, 
+                406, 
+                16, 
+                38
+            ], 
+            "bboxVis": [
+                554, 
+                406, 
+                14, 
+                38
+            ], 
+            "label": "rider"
+        }
+    ]
+}

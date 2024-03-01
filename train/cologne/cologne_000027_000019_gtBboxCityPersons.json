@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                946, 
+                439, 
+                18, 
+                45
+            ], 
+            "bboxVis": [
+                946, 
+                439, 
+                16, 
+                45
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                165, 
+                428, 
+                28, 
+                68
+            ], 
+            "bboxVis": [
+                174, 
+                428, 
+                17, 
+                68
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                152, 
+                422, 
+                31, 
+                75
+            ], 
+            "bboxVis": [
+                156, 
+                422, 
+                22, 
+                75
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                119, 
+                421, 
+                35, 
+                87
+            ], 
+            "bboxVis": [
+                129, 
+                421, 
+                25, 
+                87
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24004, 
+            "bbox": [
+                103, 
+                407, 
+                42, 
+                103
+            ], 
+            "bboxVis": [
+                104, 
+                408, 
+                39, 
+                102
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                975, 
+                431, 
+                25, 
+                60
+            ], 
+            "bboxVis": [
+                975, 
+                431, 
+                25, 
+                42
+            ], 
+            "label": "rider"
+        }
+    ]
+}

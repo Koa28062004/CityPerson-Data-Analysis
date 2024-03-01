@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1536, 
+                343, 
+                65, 
+                160
+            ], 
+            "bboxVis": [
+                1547, 
+                343, 
+                38, 
+                32
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1649, 
+                333, 
+                83, 
+                203
+            ], 
+            "bboxVis": [
+                1652, 
+                333, 
+                60, 
+                32
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1726, 
+                345, 
+                88, 
+                215
+            ], 
+            "bboxVis": [
+                1744, 
+                345, 
+                40, 
+                26
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                583, 
+                402, 
+                7, 
+                14
+            ], 
+            "bboxVis": [
+                583, 
+                402, 
+                7, 
+                14
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                399, 
+                401, 
+                8, 
+                10
+            ], 
+            "bboxVis": [
+                399, 
+                401, 
+                8, 
+                10
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1091, 
+                408, 
+                6, 
+                8
+            ], 
+            "bboxVis": [
+                1091, 
+                408, 
+                6, 
+                8
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

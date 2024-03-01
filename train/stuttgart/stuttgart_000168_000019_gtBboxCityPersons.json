@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1470, 
+                403, 
+                8, 
+                20
+            ], 
+            "bboxVis": [
+                1472, 
+                404, 
+                6, 
+                13
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1463, 
+                402, 
+                8, 
+                20
+            ], 
+            "bboxVis": [
+                1465, 
+                404, 
+                6, 
+                13
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                717, 
+                411, 
+                22, 
+                54
+            ], 
+            "bboxVis": [
+                719, 
+                412, 
+                20, 
+                53
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                1160, 
+                300, 
+                131, 
+                320
+            ], 
+            "bboxVis": [
+                1160, 
+                301, 
+                131, 
+                319
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                186, 
+                349, 
+                11, 
+                14
+            ], 
+            "bboxVis": [
+                186, 
+                349, 
+                11, 
+                14
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1801, 
+                409, 
+                11, 
+                13
+            ], 
+            "bboxVis": [
+                1801, 
+                409, 
+                11, 
+                13
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

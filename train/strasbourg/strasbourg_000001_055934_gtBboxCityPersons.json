@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                424, 
+                462, 
+                46, 
+                115
+            ], 
+            "bboxVis": [
+                424, 
+                463, 
+                46, 
+                114
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1342, 
+                438, 
+                24, 
+                59
+            ], 
+            "bboxVis": [
+                1344, 
+                439, 
+                22, 
+                58
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                1336, 
+                436, 
+                27, 
+                66
+            ], 
+            "bboxVis": [
+                1342, 
+                437, 
+                21, 
+                65
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                1604, 
+                342, 
+                91, 
+                220
+            ], 
+            "bboxVis": [
+                1608, 
+                344, 
+                83, 
+                218
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 25000, 
+            "bbox": [
+                530, 
+                452, 
+                44, 
+                106
+            ], 
+            "bboxVis": [
+                530, 
+                454, 
+                44, 
+                104
+            ], 
+            "label": "rider"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1398, 
+                351, 
+                20, 
+                19
+            ], 
+            "bboxVis": [
+                1398, 
+                351, 
+                20, 
+                19
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

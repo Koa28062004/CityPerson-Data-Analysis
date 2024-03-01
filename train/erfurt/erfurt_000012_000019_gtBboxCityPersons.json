@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                403, 
+                408, 
+                35, 
+                85
+            ], 
+            "bboxVis": [
+                407, 
+                409, 
+                19, 
+                24
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                377, 
+                407, 
+                36, 
+                89
+            ], 
+            "bboxVis": [
+                386, 
+                409, 
+                23, 
+                45
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1262, 
+                365, 
+                13, 
+                18
+            ], 
+            "bboxVis": [
+                1262, 
+                365, 
+                13, 
+                18
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                733, 
+                421, 
+                9, 
+                15
+            ], 
+            "bboxVis": [
+                733, 
+                421, 
+                9, 
+                15
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                910, 
+                414, 
+                6, 
+                9
+            ], 
+            "bboxVis": [
+                910, 
+                414, 
+                6, 
+                9
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                826, 
+                431, 
+                8, 
+                8
+            ], 
+            "bboxVis": [
+                826, 
+                431, 
+                8, 
+                8
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

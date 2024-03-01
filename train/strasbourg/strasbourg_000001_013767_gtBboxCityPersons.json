@@ -1,0 +1,38 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                1039, 
+                380, 
+                26, 
+                57
+            ], 
+            "bboxVis": [
+                1039, 
+                380, 
+                26, 
+                57
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                1057, 
+                378, 
+                39, 
+                52
+            ], 
+            "bboxVis": [
+                1057, 
+                378, 
+                39, 
+                52
+            ], 
+            "label": "sitting person"
+        }
+    ]
+}

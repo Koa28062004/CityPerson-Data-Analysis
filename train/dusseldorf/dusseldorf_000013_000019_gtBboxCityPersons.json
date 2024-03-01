@@ -1,0 +1,86 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                288, 
+                487, 
+                43, 
+                63
+            ], 
+            "bboxVis": [
+                288, 
+                487, 
+                43, 
+                63
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                351, 
+                439, 
+                44, 
+                108
+            ], 
+            "bboxVis": [
+                356, 
+                439, 
+                39, 
+                108
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                236, 
+                422, 
+                57, 
+                140
+            ], 
+            "bboxVis": [
+                236, 
+                423, 
+                57, 
+                139
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                536, 
+                423, 
+                11, 
+                44
+            ], 
+            "bboxVis": [
+                536, 
+                423, 
+                11, 
+                44
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1835, 
+                307, 
+                44, 
+                64
+            ], 
+            "bboxVis": [
+                1835, 
+                307, 
+                44, 
+                64
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

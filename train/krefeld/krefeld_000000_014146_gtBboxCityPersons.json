@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                345, 
+                423, 
+                15, 
+                37
+            ], 
+            "bboxVis": [
+                347, 
+                425, 
+                13, 
+                35
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                464, 
+                398, 
+                37, 
+                91
+            ], 
+            "bboxVis": [
+                469, 
+                400, 
+                32, 
+                89
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                531, 
+                438, 
+                40, 
+                33
+            ], 
+            "bboxVis": [
+                531, 
+                438, 
+                40, 
+                33
+            ], 
+            "label": "sitting person"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                601, 
+                353, 
+                93, 
+                226
+            ], 
+            "bboxVis": [
+                601, 
+                353, 
+                88, 
+                226
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24004, 
+            "bbox": [
+                866, 
+                383, 
+                37, 
+                89
+            ], 
+            "bboxVis": [
+                874, 
+                383, 
+                27, 
+                89
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1138, 
+                157, 
+                74, 
+                71
+            ], 
+            "bboxVis": [
+                1138, 
+                157, 
+                74, 
+                71
+            ], 
+            "label": "ignore"
+        }
+    ]
+}

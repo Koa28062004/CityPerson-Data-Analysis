@@ -1,0 +1,102 @@
+{
+    "imgHeight": 1024, 
+    "imgWidth": 2048, 
+    "objects": [
+        {
+            "instanceId": 24000, 
+            "bbox": [
+                915, 
+                451, 
+                34, 
+                85
+            ], 
+            "bboxVis": [
+                915, 
+                451, 
+                34, 
+                85
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24002, 
+            "bbox": [
+                739, 
+                453, 
+                36, 
+                88
+            ], 
+            "bboxVis": [
+                749, 
+                454, 
+                18, 
+                11
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1002, 
+                422, 
+                5, 
+                7
+            ], 
+            "bboxVis": [
+                1002, 
+                422, 
+                5, 
+                7
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 0, 
+            "bbox": [
+                1134, 
+                428, 
+                4, 
+                6
+            ], 
+            "bboxVis": [
+                1134, 
+                428, 
+                4, 
+                6
+            ], 
+            "label": "ignore"
+        }, 
+        {
+            "instanceId": 24001, 
+            "bbox": [
+                779, 
+                452, 
+                39, 
+                96
+            ], 
+            "bboxVis": [
+                792, 
+                453, 
+                15, 
+                11
+            ], 
+            "label": "pedestrian"
+        }, 
+        {
+            "instanceId": 24003, 
+            "bbox": [
+                859, 
+                484, 
+                17, 
+                46
+            ], 
+            "bboxVis": [
+                859, 
+                484, 
+                17, 
+                46
+            ], 
+            "label": "person (other)"
+        }
+    ]
+}
