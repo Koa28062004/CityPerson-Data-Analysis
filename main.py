@@ -3,7 +3,7 @@ import json
 import csv
 
 # Directory containing the JSON files
-folder_path = 'train/zurich'
+folder_path = 'train/basel'
 
 # Extract folder name from folder_path
 folder_name = os.path.basename(folder_path)
@@ -17,8 +17,8 @@ def count_labels_in_file(file_path):
     tmp_counts = {}  # Initialize tmp_counts here
     with open(file_path, 'r') as file:
         data = json.load(file)
-        for obj in data['objects']:
-            label = obj['label']
+        for obj in data['children']:
+            label = obj['identity']
             if label in label_counts:
                 label_counts[label] += 1
                 if label in tmp_counts:
@@ -60,6 +60,7 @@ os.makedirs(csv_folder_path, exist_ok=True)
 # Write the sorted counts to CSV files
 label_csv_filename = os.path.join(csv_folder_path, f'{folder_name}_label_counts.csv')
 image_csv_filename = os.path.join(csv_folder_path, f'{folder_name}_image_counts.csv')
+summary_csv_filename = os.path.join('csv', 'summary', f'{folder_name}_image_counts.csv')
 
 with open(label_csv_filename, 'w', newline='') as csvfile:
     fieldnames = ['Label', 'Count']
@@ -78,4 +79,15 @@ with open(image_csv_filename, 'w', newline='') as csvfile:
         for label_count, image_count in count_dict.items():
             writer.writerow({'Label': label, 'Count': label_count, 'Image Count': image_count})
 
+# Write the summary counts to the summary CSV file
+with open(summary_csv_filename, 'w', newline='') as csvfile:
+    fieldnames = ['Label', 'Count', 'Image Count']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    
+    writer.writeheader()
+    for label, count_dict in sorted_image_counts.items():
+        for label_count, image_count in count_dict.items():
+            writer.writerow({'Label': label, 'Count': label_count, 'Image Count': image_count})
+
 print(f"CSV files '{label_csv_filename}' and '{image_csv_filename}' created successfully.")
+print(f"Summary CSV file '{summary_csv_filename}' created successfully.")
