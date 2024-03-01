@@ -53,9 +53,13 @@ sorted_image_counts = {}
 for label, count_dict in image_counts.items():
     sorted_image_counts[label] = dict(sorted(count_dict.items(), key=lambda item: item[0]))
 
+# Create the directory structure for CSV files
+csv_folder_path = os.path.join('csv', folder_path.replace('/', os.sep))
+os.makedirs(csv_folder_path, exist_ok=True)
+
 # Write the sorted counts to CSV files
-label_csv_filename = f'{folder_name}_label_counts.csv'
-image_csv_filename = f'{folder_name}_image_counts.csv'
+label_csv_filename = os.path.join(csv_folder_path, f'{folder_name}_label_counts.csv')
+image_csv_filename = os.path.join(csv_folder_path, f'{folder_name}_image_counts.csv')
 
 with open(label_csv_filename, 'w', newline='') as csvfile:
     fieldnames = ['Label', 'Count']
